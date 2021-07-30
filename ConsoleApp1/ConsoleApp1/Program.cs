@@ -10,6 +10,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //make editing on git
+            //make  chenges ini visual studio
         }
     }
 }
